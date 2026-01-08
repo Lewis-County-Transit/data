@@ -1,0 +1,2 @@
+feed_publisher_url,feed_publisher_name,feed_lang,feed_version,feed_license,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date,feed_id
+https://lewiscountytransit.org,"Lewis County Transit",en,UTC: 1-Jan-2026 09:30,,info+gtfs@lewiscountytransit.org,http://data.lewiscountytransit.org,20250915,20260201,lewiscounty-wa-us

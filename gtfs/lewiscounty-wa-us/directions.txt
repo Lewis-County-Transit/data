@@ -1,0 +1,16 @@
+route_id,direction_id,direction
+77478,1,Westbound
+77478,0,Eastbound
+77350,1,Northbound
+77350,0,Southbound
+77349,0,Loop
+76388,1,Westbound
+76388,0,Eastbound
+74425,1,Northbound
+74425,0,Southbound
+32880,0,Loop
+32879,1,Northbound
+32879,0,Southbound
+32878,0,Loop
+32877,0,Loop
+32876,0,Loop

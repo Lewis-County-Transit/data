@@ -1,0 +1,11 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off,tts_route_short_name,tts_route_long_name
+2298,32880,Blue,,,3,,5B9BD5,000000,0,,0,1,1,,
+2298,32876,Yellow,,,3,,FFC000,000000,1,,0,1,1,,
+2298,32878,Orange,,,3,,ED7D31,000000,2,,0,1,1,,
+2298,32877,Red,,,3,,A52628,FFFFFF,3,,0,1,1,,
+2298,77349,Red Weekend,,,3,,cf181a,,4,60,0,1,1,,
+2298,76388,,Brown,,3,,73471e,ffffff,5,,0,1,1,,
+2298,77478,,Brown East,,3,,c96c2c,000000,6,,0,1,1,,
+2298,74425,Purple,,,3,,7f2b62,ffffff,7,120,0,1,1,,
+2298,32879,Green,,,3,,538135,FFFFFF,8,,0,1,1,,
+2298,77350,Green B,,,3,,558d33,,9,120,0,1,1,,

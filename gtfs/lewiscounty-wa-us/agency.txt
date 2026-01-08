@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url,tts_agency_name
+2298,https://lewiscountytransit.org/,en,Lewis County Transit ,,America/Los_Angeles,https://lewiscountytransit.org/lewis-county-transit-bus-fares/,

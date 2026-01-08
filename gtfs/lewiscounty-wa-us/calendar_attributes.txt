@@ -1,0 +1,4 @@
+service_id,service_description
+c_71372_b_85091_d_96,Year Round starting 7/7/25 (Weekend)
+c_71372_b_85091_d_31,Year Round starting 7/7/25 (Weekday)
+c_71372_b_85091_d_27,Year Round starting 7/7/25 (MTuThF)
